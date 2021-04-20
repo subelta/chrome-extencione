@@ -1,2 +1,2 @@
-# words-counter-extension
-Chrome extension for counting words
+# chrome-extencione
+Chrome extension for something
