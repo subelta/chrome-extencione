@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    color: white;
+    font-family: monospace;
+}
+
+.container {
+    width: 300px;
+    height: 140px;
+    background-color: blue;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.container > h2 {
+    margin: 0 0 20px;
+    font-size: 20px;
+}
+
+.container > div > input[type="checkbox"] {
+    margin: 0;
+    vertical-align: middle;
+}
+
+.container > div > label {
+    vertical-align: middle;
+    cursor: pointer;
+    font-size: 13px;
+}
